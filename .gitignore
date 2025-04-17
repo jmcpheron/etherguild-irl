@@ -1,0 +1,36 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore 3D model editor temp files
+*.blend1
+*.blend2
+*.bak
+*.tmp
+
+# Ignore common 3D print slicer output
+*.gcode
+*.factory
+*.3mf
+*.amf
+*.x3g
+
+# Ignore preview renders
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.bmp
+*.gif
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore other common clutter
+.idea/
+.vscode/
+*.log
+
+# Node modules (if any scripts use JS)
+node_modules/
