@@ -1,6 +1,6 @@
 # EtherGuild Community Project Artifacts
 
-![Code of Arms](images/code_of_arms.png)
+![Coat of Arms](images/coat-of-arms-demo.png)
 
 This repository contains artifacts and source code for the EtherGuild cryptocurrency community project. It is primarily intended to store source files for 3D printed swag, images, and related materials.
 
