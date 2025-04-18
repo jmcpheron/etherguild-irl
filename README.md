@@ -1,4 +1,4 @@
-# EtherGuild Community Project Assets
+# EtherGuild Community Artifacts
 
 This repository contains assets and source code for the EtherGuild cryptocurrency community project. It is primarily intended to store source files for 3D printed swag, images, and related materials.
 
