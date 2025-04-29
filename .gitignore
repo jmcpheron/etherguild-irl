@@ -34,3 +34,7 @@ __pycache__/
 
 # Node modules (if any scripts use JS)
 node_modules/
+
+# Ignore new image formats if needed
+*.svg
+*.webp
